@@ -18,7 +18,7 @@ This is the starting point for every individual assignment in Weeks 1–6. You c
 | Node.js (LTS) | https://nodejs.org — pick the **LTS** download | `node --version` prints `v22.x` or `v24.x` |
 | pnpm | `npm install -g pnpm` | `pnpm --version` prints `10.x` or higher |
 | Git | https://git-scm.com/downloads (macOS: comes with Xcode Command Line Tools) | `git --version` |
-| GitHub account | https://github.com | You can sign in |
+| GitHub account | Sign up through the **Student Developer Pack** at https://education.github.com/pack using your **BC email**. Already have an account? Add your BC email in Settings → Emails and apply for the pack; do not make a second account. | You can sign in |
 | VS Code | https://code.visualstudio.com | Open it. Install the **Expo Tools** extension when prompted |
 | A way to run the app | **One** of the options below | See section 3 |
 
